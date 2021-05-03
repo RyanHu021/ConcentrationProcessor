@@ -1,2 +1,2 @@
 # ConcentrationProcessor
- IB Computer Science HL IA
+ IB Computer Science SL IA
